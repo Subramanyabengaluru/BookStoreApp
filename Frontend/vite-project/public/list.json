@@ -1,0 +1,82 @@
+[
+   {
+      "id": 1,
+      "name": "Mystery of the Lost Island",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "John Smith"
+   },
+   {
+      "id": 2,
+      "name": "The Secret Garden",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "Jane Doe"
+   },
+   {
+      "id": 3,
+      "name": "Adventures in Wonderland",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "Emily Johnson"
+   },
+   {
+      "id": 4,
+      "name": "The Enchanted Forest",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "Michael Brown"
+   },
+   {
+      "id": 5,
+      "name": "The Magic Mountain",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "Sarah Davis"
+   },
+   {
+      "id": 6,
+      "name": "Journey to the Center of the Earth",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "David Wilson"
+   },
+   {
+      "id": 7,
+      "name": "Treasure Island",
+      "price": 12.99,
+      "category": "Adventure",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "Laura Martinez"
+   },
+   {
+      "id": 8,
+      "name": "The Great Gatsby",
+      "price": 15.49,
+      "category": "Classic",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "James Garcia"
+   },
+   {
+      "id": 9,
+      "name": "To Kill a Mockingbird",
+      "price": 9.99,
+      "category": "Drama",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "Mary Rodriguez"
+   },
+   {
+      "id": 10,
+      "name": "1984",
+      "price": 8.75,
+      "category": "Science Fiction",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720286797~exp=1720290397~hmac=eba19f4a36bdc2d70e02f89c43729554ac1640e3336d54c6e8748b7c86538b2a&w=740",
+      "author": "William Lee"
+   }
+]
